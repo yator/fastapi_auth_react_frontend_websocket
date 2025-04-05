@@ -1,9 +1,11 @@
 # fastapi_auth_react_frontend_websocket
 
-FastAPI Setup
+**FastAPI Setup**
 Dependencies
 Python 3.10+(i used python 3.13)
-Steps
+
+**Steps**
+
 1.Navigate  to the backend directory
    cd backend
 2.Create a virtual environemt
@@ -19,8 +21,9 @@ Steps
 you can access the api under: http://localhost:8000/docs
 
 
-FRONTEND SETUP(react)
-reurements
+**FRONTEND SETUP(react)**
+
+**reurements**
 Node.js and npm
 Steps
 1 Navigate to the frontend directory:
